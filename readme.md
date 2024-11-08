@@ -3,7 +3,6 @@
 - It captures video from the webcam, detects faces, and predicts the emotions associated with each face. The emotion labels are displayed on the frames in real-time.
 - to implement realtime emotion monitoring.
 - Created a streamLit application for the facial emotion recognition of human faces.
-- Give this repository a ⭐ if you liked it, since it took me time to understand and implement this
 
 ### Dependencies
 - [deepface](https://github.com/serengil/deepface): A deep learning facial analysis library that provides pre-trained models for facial emotion detection. It relies on TensorFlow for the underlying deep learning operations.
