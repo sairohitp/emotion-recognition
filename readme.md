@@ -8,7 +8,6 @@
 - [deepface](https://github.com/serengil/deepface): A deep learning facial analysis library that provides pre-trained models for facial emotion detection. It relies on TensorFlow for the underlying deep learning operations.
 - [OpenCV](https://opencv.org/): An open-source computer vision library used for image and video processing.
 
-### Usage
 ### Initial steps:
 - Git clone this repository
 - Run: `Facial-Emotion-Recognition-DeepFace-StreamLit`
